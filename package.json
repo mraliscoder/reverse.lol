@@ -20,7 +20,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "axios": "0.21.4",
+    "axios": "0.30.0",
     "debug": "4.3.2",
     "openurl": "1.1.1",
     "yargs": "17.1.1"
